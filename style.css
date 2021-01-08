@@ -239,7 +239,6 @@ header .header-content .content p {
     width: 100%;
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
     position: relative;
 }
 .Goal .content {
